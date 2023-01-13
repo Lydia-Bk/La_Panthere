@@ -746,7 +746,7 @@ h2 {
 .h2_main {
     font-size: 32px;
     text-align: center;
-    color: #FFFFFF;
+    color: #FFFFFF !important;
     
 }
 
