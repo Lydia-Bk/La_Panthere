@@ -100,7 +100,6 @@ label {
 }
 
 .texture-paper::before {
-    background: url("./img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -707,6 +706,12 @@ a {
     margin: auto auto auto auto;
 }
 
+.row-form {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
 .p_quote {
     font-size: 17px;
     color: #575757;
@@ -796,6 +801,13 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 3rem;
 }
 
 .white {
