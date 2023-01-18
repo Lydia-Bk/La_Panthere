@@ -90,6 +90,7 @@ a:hover {
 
 label {
     font-size: 19px;
+    color: black;
 }
 
 .b-parallax {
@@ -120,7 +121,6 @@ label {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -215,10 +215,8 @@ label {
 
 .d-bloc .panel .a-btn,
 .l-bloc .a-btn,
-.l-bloc .navbar a,
 .l-bloc .navbar-brand,
 .l-bloc a .icon-sm,
-.l-bloc a .icon-md,
 .l-bloc a .icon-lg,
 .l-bloc a .icon-xl,
 .l-bloc h1 a,
@@ -317,17 +315,13 @@ label {
 .h1_contact {
     font-size: 30px;
     text-align: center;
-}
-
-.subtitle {
     color: black;
-    font-weight: bold;
 }
 
 .p_contact_subtitle {
     text-align: center;
     font-size: 18px;
-    color: white;
+    color: black;
 }
 
 .nav > li {
@@ -491,6 +485,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: black;
 }
 
 .icon-lg {
@@ -666,8 +661,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color:
-    #575757!important;
 }
 
 .h3_main_title {
@@ -682,6 +675,8 @@ a {
     text-align: center;
     color: white;
     text-transform: uppercase;
+    color: black;
+    font-weight: bold;
 }
 
 .container {
@@ -750,7 +745,7 @@ h2 {
 .h2_main {
     font-size: 32px;
     text-align: center;
-    color: #FFFFFF !important;
+    color: black;
     
 }
 
@@ -811,7 +806,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black;
 }
 
 .portfolio-thumb {
@@ -845,7 +840,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -876,8 +871,8 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("./img/dots-bg.png");
+    background: #364577;
 }
-
 
 .bg-banniere {
     background-image: url("./img/agence-la-panthere.jpg");
@@ -893,18 +888,19 @@ h4 {
 }
 
 .footer_p {
-    color: #FFFFFF!important;
+    color: black!important;
     font-size: 16px;
 }
 
 .h3_footer {
-    color: #FFFFFF;
+    color: black;
     text-transform: uppercase;
     margin-top: 6rem;
 }
 
 .navbar_link {
     font-size: 18px;
+    color: black;
 }
 
 @media (max-width: 1024px) {
