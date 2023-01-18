@@ -282,6 +282,8 @@ label {
 
 #bloc-1-hero h1 {
     font-size: 30px;
+    color: black;
+    font-weight: bold;
 }
 
 .navbar {
@@ -317,6 +319,11 @@ label {
     text-align: center;
 }
 
+.subtitle {
+    color: black;
+    font-weight: bold;
+}
+
 .p_contact_subtitle {
     text-align: center;
     font-size: 18px;
@@ -331,6 +338,10 @@ label {
 
 .navbar-nav .open .dropdown-menu > li > a {
     text-align: inherit;
+}
+
+.img-responsive {
+    width: 100%;
 }
 
 .nav > li a:hover,
